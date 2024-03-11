@@ -1,0 +1,112 @@
+*{
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    background-color: #bba6a6;
+    margin: 1%;
+}
+.one{ 
+    font-size: 20px;
+    font-weight:bold;
+    font-family:Fira Code;
+    text-align: center;
+}
+/* Basic styling for the contact information */
+.info1 {
+  font-family: Arial;
+  font-weight:bold;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px;
+  text-align: end;
+  margin-right: 10px;
+}
+
+/* Style the address */
+.info1-add {
+  font-style: normal;
+  margin-bottom: 10px;
+}
+
+/* Style the email and phone number */
+.info1-add {
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+/* Add hover effect to the links */
+.info a:hover {
+  text-decoration: underline;
+}
+
+/* Style the mobile number */
+.info .no {
+  font-weight: bold;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  section {
+    margin-top: 20px;
+  }
+
+  .info {
+    font-size: 1.1em;
+  }
+
+  .education,
+  .experience {
+    margin-bottom: 20px;
+  }
+
+  hr {
+    border: 0.5px solid #ccc;
+    margin-top: 20px;
+    body {
+        font-family: Arial, sans-serif;
+        margin: 40px;
+      }
+  
+      header {
+        text-align: center;
+      }
+  
+      h1 {
+        color: #333;
+      }
+  
+      section {
+        margin-top: 20px;
+      }
+  
+      .info {
+        font-size: 1.1em;
+      }
+  
+      .education,
+      .experience {
+        margin-bottom: 20px;
+      }
+  
+      h2 {
+        color: #555;
+      }
+      hr {
+        border: 0.5px solid #ccc;
+        margin-top: 20px;
+      }
+    }
